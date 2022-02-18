@@ -1,1 +1,2 @@
 random.txt
+this is a random file
